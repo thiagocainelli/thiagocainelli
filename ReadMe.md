@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou cursando Análise e Desenvolvimento de Sistemas<br>Estudando e me especializando atualmente no desenvolvimento Front-End<br>
+Olá! 👋<br>👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas<br>💻 Estudando e me especializando atualmente no desenvolvimento Front-End<br>🚀 Buscando adquirir novos conhecimentos continuamente no mundo dev e tech, que por sinal, é incrível!<br>📧 E-mail: thiagocainelli@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -11,5 +11,3 @@ Estou cursando Análise e Desenvolvimento de Sistemas<br>Estudando e me especial
 ![](https://github-readme-stats.vercel.app/api?username=thiagocainelli&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiagocainelli&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocainelli&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
