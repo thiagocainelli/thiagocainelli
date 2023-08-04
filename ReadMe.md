@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! 👋<br>👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.<br>💻 Estudando e me especializando atualmente no desenvolvimento Front-End.<br>🚀 Buscando adquirir novos conhecimentos continuamente no mundo dev e tech, que por sinal, é incrível!<br>📧 E-mail para contato: thiagocainelli@gmail.com<br>
+Olá! 👋<br>👨‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas.<br>💻 Estudando e me especializando atualmente no desenvolvimento Front-End.<br>🚀 Buscando aprendizado e conhecimento continuamente no mundo dev e tech, que por sinal, é incrível!<br>📧 E-mail para contato: thiagocainelli@gmail.com<br>
 
 
 ## 🌐 Socials:
