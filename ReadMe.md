@@ -1,5 +1,5 @@
 # 💫 About Me
-Hello, welcome to my GitHub profile! 👋<br><br>👨‍🎓 I'm studying Systems Analysis and Development.<br>💻 I'm currently specializing in front-end development.<br>🚀 Seeking continuous learning and knowledge in the dev world, which is incredible!<br>📧 Contact e-mail: thiagocainelli@gmail.com.<br><br><br>https://www.linkedin.com/in/thiagocainelli/
+Hello, welcome to my GitHub profile! 👋<br><br>👨‍🎓 I'm studying Systems Analysis and Development.<br>💻 I'm currently specializing in front-end development.<br>🚀 Seeking continuous learning and knowledge in the dev world, which is incredible!<br>📧 Contact e-mail: thiagocainelli@gmail.com.<br><br>https://www.linkedin.com/in/thiagocainelli/
 
 
 # 💻 Tech Stack
