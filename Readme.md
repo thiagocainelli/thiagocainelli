@@ -2,7 +2,7 @@
 
 Sou **Desenvolvedor Fullstack** especializado em **Typescript, Python, Node.js, React.js e React Native**, com sólida experiência no desenvolvimento de **interfaces modernas** e **APIs escaláveis**. Entregando soluções robustas, de alta qualidade e voltadas à performance.
 
-Uso de **Python** com LangChain, LLMs para criação de soluções com IA. Como criação de chatbots, extração e análise de dados de documentos, criação de agentes, dentre outras soluções.
+Criações e manutenções de soluções de IA generativa, como: agentes, chatbots, RAG, extração de dados, dentre outras soluções, usando **Python** com LangChain, LangGraph, LLMs, OpenAI API.
 
 Tenho expertise em **arquitetura de sistemas**, **boas práticas de desenvolvimento** e **integrações complexas**, garantindo eficiência tanto no **front-end**, **back-end** e **mobile**.  
 Meu foco está em construir produtos digitais que realmente façam diferença, unindo **tecnologia, inovação e impacto positivo**.  
