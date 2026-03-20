@@ -1,6 +1,6 @@
 👋 Olá, bem-vindo ao meu GitHub!  
 
-Sou **Desenvolvedor Fullstack** especializado em **Typescript, Python, Node.js, React.js e React Native**, com sólida experiência no desenvolvimento de **interfaces modernas** e **APIs escaláveis**. Entregando soluções robustas, de alta qualidade e voltadas à performance.
+Sou **Engenheiro  de Software** especializado em **Typescript, Python, Node.js, React.js e React Native**, com sólida experiência no desenvolvimento de **interfaces modernas** e **APIs escaláveis**. Entregando soluções robustas, de alta qualidade e voltadas à performance.
 
 Desenvolvimento de soluções com uso IA generativa, como: agentes, chatbots, RAG, extração e tratamento de dados, dentre outras soluções, usando **Python** com LangChain, LangGraph, LLMs, OpenAI API.
 
@@ -19,4 +19,4 @@ Meu foco está em construir produtos digitais que realmente façam diferença, u
 - **Banco de Dados**: PostgreSQL, MySQL  
 - **DevOps & Cloud**: Docker, AWS, Azure, DigitalOcean  
 - **Qualidade & Documentação**: Cypress, Jest, Swagger  
-- **IA & Integrações**: LangChain, LLMs, Google Vision, EFI Pay, Google Calendar, entre outros.
+- **IA & Integrações**: LangChain, LangGraph, LLMs, Google Vision, EFI Pay, Google Calendar, entre outros.
