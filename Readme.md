@@ -8,5 +8,5 @@ Focused on **building products that make a real difference** by combining **tech
 
 ---
 - 📧 Contact: **thiagocainelli@gmail.com** 
-- 🔗 Linkedin: **[thiagocainelli](https://www.linkedin.com/in/thiagocainelli/)**
+- 🔗 Linkedin: **[in/thiagocainelli](https://www.linkedin.com/in/thiagocainelli/)**
 - 🌐 Website: **[thiagocainelli.com.br](https://www.thiagocainelli.com.br)**
