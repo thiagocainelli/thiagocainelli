@@ -1,4 +1,4 @@
-**Software Engineer** specializing in **TypeScript, Python, Node.js, and React.js**, with solid experience **building modern interfaces, scalable APIs, and high-performance software solutions**.
+**Senior Software Engineer** specializing in **TypeScript, Python, Node.js, and React.js**, with solid experience **building modern interfaces, scalable APIs, and high-performance software solutions**.
 
 Experienced in **software architecture, development best practices, and complex system integrations**, with a strong focus on building robust, maintainable, and scalable products.
 
@@ -7,8 +7,6 @@ Strong expertise in **Generative AI and Applied AI, including LLMs, RAG, embeddi
 Focused on **building products that make a real difference** by combining **technology, innovation, artificial intelligence, and positive impact**.
 
 ---
-📧 Contact: **thiagocainelli@gmail.com** 
-
-🔗 Linkedin: **[thiagocainelli](https://www.linkedin.com/in/thiagocainelli/)**
-
-🌐 Website: **[thiagocainelli.com.br](https://www.thiagocainelli.com.br)**
+- 📧 Contact: **thiagocainelli@gmail.com** 
+- 🔗 Linkedin: **[thiagocainelli](https://www.linkedin.com/in/thiagocainelli/)**
+- 🌐 Website: **[thiagocainelli.com.br](https://www.thiagocainelli.com.br)**
