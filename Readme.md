@@ -5,7 +5,10 @@ Experienced in **software architecture, development best practices, and complex 
 Strong expertise in **Generative AI and Applied AI, including LLMs, RAG, embeddings, vector databases, semantic search, AI agents**, and the development of intelligent solutions powered by AI. Experienced in integrating AI capabilities into real-world products to automate processes, enhance decision-making, and deliver meaningful business value.
 
 Focused on **building products that make a real difference** by combining **technology, innovation, artificial intelligence, and positive impact**.
+---
 
 📧 Contact: **thiagocainelli@gmail.com** 
+
 🔗 Linkedin: **[thiagocainelli](https://www.linkedin.com/in/thiagocainelli/)**
+
 🌐 Website: **[thiagocainelli.com.br](https://www.thiagocainelli.com.br)**
